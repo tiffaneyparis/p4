@@ -39,6 +39,20 @@ TweenMax.from($D, 4, {
     
 });
 
+//day
+var $day = $('#day');
+
+//selector or DOM element, duration, CSS properties
+
+TweenMax.from($day, 3, {
+    
+    opacity: 0,
+    y: 333
+    
+ 
+    
+});
+
 //don't even know 
   
  var $vcd_contain = $('.vcd_contain');
