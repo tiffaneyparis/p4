@@ -6,3 +6,10 @@
 <polygon fill="#262262" stroke="#27AAE1" stroke-width="6" stroke-miterlimit="10" points="105.9,119.4 68.2,101.2 31.8,122 
 	37.5,80.5 6.5,52.4 47.7,44.9 64.9,6.8 84.7,43.6 126.3,48.2 97.4,78.4 "/>
 </svg>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="144px" height="144px" viewBox="0 0 144 144" enable-background="new 0 0 144 144" xml:space="preserve">
+<path fill="#F15A29" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M50.247,8.888l21.47,55.1l21.66-55.1h44.27
+	L88.247,135.617h-32.87L5.977,8.888H50.247z M73.807,120.418l37.62-96.33h-5.319l-34.391,87.59l-34.2-87.59h-5.32l37.62,96.33
+	H73.807z"/>
+</svg>

@@ -7,16 +7,24 @@
 }
 
 
-#stage #star {
+#stage  {
     
-    width: 100px;
-    height: 100px;
+    width: 1000px;
+    height: 170px;
     
 }
 
+#V, #C, #D {
+    height: 150px;
+    
+    
+    
+}
 
-
-
+.vcd_contain {
+    display: flex;
+    
+}
 
 /* DO NOT EDIT BELOW THIS LINE */
 
