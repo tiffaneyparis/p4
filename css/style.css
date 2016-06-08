@@ -2,20 +2,16 @@
 
 #stage {
     background: white;
-    
 }
 
 
 #stage  {
-    
     width: 1000px;
     height: 300px;
-    
 }
 
 #V, #C, #D {
     height: 150px;
-
 }
 
 .vcd_contain {
@@ -24,16 +20,12 @@
 }
 
 .day_contain {
-
-   
-  
 }
 
 #day {
     width: 200px;
     height: 100px;
     margin: 0;
-    
 }
 
 /* DO NOT EDIT BELOW THIS LINE */
