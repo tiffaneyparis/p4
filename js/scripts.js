@@ -39,19 +39,6 @@ TweenMax.from($D, 4, {
     
 });
 
-//day
-var $day = $('#day');
-
-//selector or DOM element, duration, CSS properties
-
-TweenMax.from($day, 3, {
-    
-    opacity: 0,
-    y: 333
-    
- 
-    
-});
 
 //don't even know 
   
@@ -71,3 +58,16 @@ var D = document.getElementById("D");
 TweenLite.to([V, C, D], 1, {scale:1, opacity:1});
 
 
+//day
+var $day = $('.day');
+
+//selector or DOM element, duration, CSS properties
+
+TweenMax.from($day, 3, {
+    
+    opacity: 0,
+    y: 333
+    
+ 
+    
+});

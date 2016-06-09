@@ -1,33 +1,60 @@
 /* Stage */
 
-#stage {
-    background: white;
-}
-
 
 #stage  {
-    width: 1000px;
+    width:800px;
     height: 300px;
+    background: white;
+    margin: 0;
+   
+  
 }
 
 #V, #C, #D {
     height: 150px;
+    margin: 0;    
+margin-left: auto;
+    margin-right: auto;
+
+    
 }
 
+body {
+    display: block;
+    align-content: center;
+}
 .vcd_contain {
-    display: flex;
-    margin: 33%, 50%, 0, 0;
-    padding: 0;
+    
+display: flex;
+   margin: 0;
+    
+
 }
 
 .day_contain {
-    padding: 0;
+   
+    margin: 0;
+    align-content: center;
+ 
 }
 
-#day {
+.day {
     width: 200px;
-    height: 100px;
+    height: 70px;
     margin: 0;
+   
+   
+}
+.flowers {
+    margin: 0;
+
+    
+}
+#purple, #pink, #green, #yellow, #orange {
+    height: 70px;
+    width: 70px;
+    
+   
 }
 
 /* DO NOT EDIT BELOW THIS LINE */
