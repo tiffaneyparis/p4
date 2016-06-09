@@ -1,6 +1,6 @@
 // animate letter //
 
-var $V = $('#V');
+var $V = $('.V');
 //selector or DOM element, duration, CSS properties
 
 TweenMax.from($V, 2, {
@@ -11,7 +11,7 @@ TweenMax.from($V, 2, {
     
 });
 
-var $C = $('#C');
+var $C = $('.C');
 
 //selector or DOM element, duration, CSS properties
 
@@ -24,7 +24,7 @@ TweenMax.from($C, 3, {
     
 });
 
-var $D = $('#D');
+var $D = $('.D');
 
 //selector or DOM element, duration, CSS properties
 
@@ -71,3 +71,17 @@ TweenMax.from($day, 3, {
  
     
 });
+
+
+
+//flowers
+
+TweenLite.to(".yellow", 4, {rotation:-360, transformOrigin:"50% 50%"});
+
+TweenLite.to(".green", 4, {rotation:360, transformOrigin:"50% 50%"});
+
+TweenLite.to(".pink", 4, {rotation:-360, transformOrigin:"50% 50%"});
+
+TweenLite.to(".purple", 4, {rotation:360, transformOrigin:"50% 50%"});
+
+TweenLite.to(".orange", 4, {rotation:360, transformOrigin:"50% 50%"});
