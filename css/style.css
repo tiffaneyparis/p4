@@ -16,10 +16,12 @@
 
 .vcd_contain {
     display: flex;
-    margin: 33%, 50%, 50%, 0;
+    margin: 33%, 50%, 0, 0;
+    padding: 0;
 }
 
 .day_contain {
+    padding: 0;
 }
 
 #day {
